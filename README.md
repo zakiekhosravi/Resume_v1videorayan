@@ -1,7 +1,8 @@
 # Resume_v1videorayan
 this a picture demo for Video Rayan project build for Behbood rayan Company
+#About this project
 
-for video conferencing coding with Html,css,bootstrap ,jS,React js,Laravel-Live vire
+for video conferencing coding with Html,css,bootstrap ,jS,React js,Laravel-Livewire
 i worked at front-end part 
 
 The code is not displayed for security reasons
