@@ -1,5 +1,10 @@
 # Resume_v1videorayan
-front admin panel with html,css,bootstrap 
+this a picture demo for Video Rayan project build for Behbood rayan Company
+
+for video conferencing coding with Html,css,bootstrap ,jS,React js,Laravel-Live vire
+i worked at front-end part 
+
+The code is not displayed for security reasons
 
 ![1](https://user-images.githubusercontent.com/96224385/178579822-3a04d101-f55e-4774-a6eb-c1451878bca8.jpg)
 ![2](https://user-images.githubusercontent.com/96224385/178579777-d288f03d-2aef-4d01-8afe-ca3f880fe574.jpg)
